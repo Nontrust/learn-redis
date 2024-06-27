@@ -4,7 +4,13 @@
  [실전! Redis 활용](https://www.inflearn.com/course/%EC%8B%A4%EC%A0%84-redis-%ED%99%9C%EC%9A%A9/dashboard)  
 
 ##
-[Mermaid.js 의 ZenUML](https://mermaid.js.org/syntax/zenuml.html) 을 시각자료로 활용함으로 해당 플러그인과 함께 보시는 것을 권장드립니다. 
+[Mermaid.js 의 ZenUML](https://mermaid.js.org/syntax/zenuml.html) 을 시각자료로 활용함으로   
+해당 플러그인과 함께 보시는 것을 권장드립니다.
+
+
+[intellij](https://plugins.jetbrains.com/plugin/20146-mermaid)  
+[vscode](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+
 
 ```yaml
 ## docker-compose.yml
